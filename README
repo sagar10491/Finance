@@ -1,0 +1,6 @@
+Finance Yahoo Api Project following are features
+Finance Yahoo Api Project following are features
+
+-- Fetch symbol from csv files for each index.csv
+--- get Data for same symbol tickers and store into DB
+-- Scheduler -> will run default at 15 Minute
